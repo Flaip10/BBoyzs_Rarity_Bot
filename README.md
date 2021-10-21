@@ -32,4 +32,4 @@ npm run dev
 Make sure to change TOKEN_ID in `.env` file to your specific ID:
 ```
 DISCORD_BOT_TOKEN= *INSERT_BOT_TOKEN_HERE*
-```# BBoyzs_Rarity_Bot
+```
